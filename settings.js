@@ -1,10 +1,10 @@
 //Creadores
-global.owner = [
+global.owner = [+51 918 990 693] 
 ['573012482597', '👑 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 👑', true],
 ['573218138672'],
 ['573218138672']]
 
-global.numberbot = '573218138672'
+global.numberbot = '+51 918 990 693'
 global.nameowner = 'OfcDiego'
 global.nomorown = '573012482597'
 
